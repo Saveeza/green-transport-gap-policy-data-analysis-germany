@@ -1,22 +1,24 @@
-# Green-transport-gap-policy-data-analysis-germany
-A professional ESG policy &amp; data analysis project uncovering why Germany’s transport sector is failing its ESG goals. It features real CO₂ emissions data, infrastructure rollout trends, a structured policy gap matrix, EU country comparisons &amp; expert recommendations. It demonstrates advanced data science, ESG risk evaluation &amp; regulatory insights.
+# 🌍 European Green Transport Gap & Policy Data Analysis  
+A professional ESG, policy & data analytics project exploring why **Germany and peer EU countries** struggle to meet climate targets — and what it reveals about modal shift, freight bottlenecks, and competitiveness.  
+Features real CO₂ data, infrastructure rollout trends, a policy gap matrix, country comparisons & expert recommendations.  
+Demonstrates advanced data science, ESG risk evaluation & regulatory analysis.
 
 ---
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Language](https://img.shields.io/badge/Language-English-blue)
 ![Status](https://img.shields.io/badge/Status-Work_in_progress-orange)
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/green-transport-gap-policy-data-analysis-germany/HEAD)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/green-transport-gap-policy-data-analysis-germany/HEAD?labpath=notebooks%2Fgreen_transport_analysis.ipynb)
 
-<img src="visuals/banner_transport_gap.png" alt="Germany's Green Transport Gap" style="width:100%; margin-top:20px;">
+![European Green Transport Gap Banner](visuals/banner_transport_gap.png)
 
 ---
 
-# 🚧 Germany’s Green Transport Gap – Policy, Risk & Emissions Analysis
+## 🚦 Europe's Transport Gap – Policy, Risk & Competitiveness Analysis
 
-> A professional-level sustainability and policy analysis project uncovering why Germany’s transport sector is failing its climate goals.  
-> It features real CO₂ emissions data, infrastructure rollout trends, a structured policy gap matrix, EU country comparisons, and expert recommendations.  
-> The project demonstrates advanced data science, ESG risk evaluation, and regulatory insight.
+> A data-driven sustainability project analyzing **Germany’s transport sector** as a deep dive — within the EU context.  
+> Connects CO₂ emissions trends, modal share, EV charging rollout, and policy alignment.  
+> Shows how policy inertia, freight challenges & modal stagnation threaten competitiveness and climate credibility.
 
 📌 Based on my article:  
 👉 [Left in the Dust – How Germany Fell Behind Green Transport](https://www.linkedin.com/pulse/left-dust-how-germany-fell-behind-green-transport-saveeza-chaudhry--v3tve)
@@ -37,31 +39,30 @@ A professional ESG policy &amp; data analysis project uncovering why Germany’s
 
 ## 📄 About This Project
 
-This research-based analysis investigates:
+Uncovers why Germany’s transport sector:
+- Misses EU climate targets despite strong industry
+- Shows minimal modal shift (rail, bus, bike)
+- Faces freight CO₂ bottlenecks and limited EV truck rollout
+- Lags peer EU countries on policy alignment
+- Needs data-based, measurable KPIs to restore credibility
 
-- Germany’s rising transport emissions and policy failures  
-- Lack of modal shift despite national goals  
-- Freight CO₂ bottlenecks and insufficient EV truck infrastructure  
-- Comparison with EU climate frameworks and peer countries  
-- Recommendations to close the credibility and performance gap  
-
-It bridges **data science**, **policy insight**, and **financial sustainability risk**.
+Bridges **policy analysis, data science & ESG financial risk**.
 
 ---
 
 ## 🧠 What Makes This Project Unique
 
-✅ Real-world data from verified sources (UBA, IFEU, Eurostat)  
-✅ Custom-built policy gap matrix with scoring  
-✅ Country-level comparison (Germany vs. EU peers)  
-✅ CO₂ tracking, modal share, and infrastructure alignment  
-✅ Final recommendations linked to measurable impact  
+✅ Combines real datasets (UBA, Eurostat, IFEU)  
+✅ Custom policy gap matrix & radar visualization  
+✅ Country-level focus + EU benchmark  
+✅ CO₂ tracking, modal shift, freight & infrastructure roll-out trends  
+✅ Final recommendations grounded in measurable policy impact
 
 ---
 
 ## 📂 Project Structure
 
-```markdown
+```plaintext
 data/
   transport_emissions.csv
   modal_share.csv
@@ -75,7 +76,7 @@ visuals/
   banner_transport_gap.png
   co2_trend_line.png
   modal_share_bar.png
-  charging_vs_emission.png
+  ev_vs_freight.png
   radar_policy_gap.png
 
 article/
@@ -89,48 +90,36 @@ references/
 requirements.txt
 LICENSE
 README.md
-```
+📓 Notebook Overview
+Loads & cleans datasets
 
----
+Plots CO₂ emissions vs. targets (gap visualization)
 
-## 🧪 Notebook Overview
+Shows modal share stagnation (2020–2023)
 
-The Jupyter notebook:
+Correlates EV truck charging rollout with freight emissions
 
-- Loads and cleans all relevant datasets  
-- Visualizes CO₂ emissions vs. climate targets  
-- Shows modal share stagnation with bar charts  
-- Correlates EV truck charging rollout vs. freight emissions  
-- Uses a radar chart to score Germany’s policy alignment  
-- Finishes with professional insights & policy recommendations  
+Builds policy gap radar chart vs EU target
 
----
+Ends with expert recommendations to policymakers & industry
 
-## 🖼️ Visuals
+🖼 Visuals
+📈 Emissions trend line
 
-- 📈 CO₂ Emissions vs. Target (Line Chart)  
-- 🚗 Modal Share (Bar Chart)  
-- 🔌 Charging vs. Freight CO₂ (Scatter)  
-- 🕸 Policy Gap Matrix (Radar Chart)  
+🚉 Modal share change bar chart
 
----
+🔌 EV charging rollout vs freight CO₂ scatter
 
-## 🌍 Why This Matters
+🕸 Policy gap radar chart
 
-Germany’s transport sector is the largest roadblock to meeting EU climate goals. This project illustrates how poor infrastructure, inconsistent incentives, and weak modal policies lead to failure — and how data-based accountability can steer sustainable progress.  
+🌱 Why This Matters
+Europe’s transport transition is critical for meeting climate goals & retaining industrial competitiveness.
+This project shows — with real data & policy context — where Germany and its peers fall short, and how smarter modal policy & infrastructure can bridge the gap.
 
-This repo is a live demonstration of how advanced analytics and policy research can intersect to guide climate strategy.
+🚧 Project Status
+✅ Repo & article published
+✅ Data and visuals uploaded
+📓 Notebook analysis 90% complete
+🔧 Final references and policy summary in progress
 
----
-
-## 🚧 Project Status
-
-✅ Repo created & structured  
-✅ Article published  
-🔧 Data and visuals being finalized  
-📓 Notebook analysis in progress  
-📌 Policy references to be fully cited
-
----
-
-*For questions, feedback, or collaboration opportunities — feel free to reach out.*
+For questions, collaboration or full German summary — feel free to reach out!
