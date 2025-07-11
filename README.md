@@ -90,36 +90,45 @@ references/
 requirements.txt
 LICENSE
 README.md
-📓 Notebook Overview
-Loads & cleans datasets
 
-Plots CO₂ emissions vs. targets (gap visualization)
+---
 
-Shows modal share stagnation (2020–2023)
+## 📓 Notebook Overview
 
-Correlates EV truck charging rollout with freight emissions
+This Jupyter notebook brings together data analytics, ESG risk modeling, and policy evaluation:
 
-Builds policy gap radar chart vs EU target
+- Loads and cleans datasets covering CO₂ emissions, modal share, charging network rollout, and policy targets
+- Visualizes Germany’s emissions gap vs. climate targets
+- Highlights modal share stagnation despite EU policy goals
+- Plots EV charging infrastructure rollout against freight CO₂ emissions
+- Builds a radar chart comparing Germany’s transport policy scores with EU targets
+- Ends with conclusions and expert recommendations to bridge the performance and credibility gap
 
-Ends with expert recommendations to policymakers & industry
+---
 
-🖼 Visuals
-📈 Emissions trend line
+## 🖼️ Visuals
 
-🚉 Modal share change bar chart
+This project includes multiple data visualizations to make complex policy and emissions trends easier to understand:
 
-🔌 EV charging rollout vs freight CO₂ scatter
+- 📈 **CO₂ Emissions vs. Climate Target** (Line Chart) — shows the persistent emissions gap over time
+- 🚗 **Modal Share Change** (Bar Chart) — compares the modal share of car, rail, bus, bike, and other modes between 2020 and 2023
+- 🔌 **EV Charging Rollout vs. Freight Emissions** (Scatter Plot) — analyzes if increased charging infrastructure correlates with reduced freight CO₂ emissions
+- 🕸 **Policy Gap Radar Chart** — visualizes how Germany's scores on key transport policy dimensions lag behind EU targets
 
-🕸 Policy gap radar chart
+---
 
-🌱 Why This Matters
-Europe’s transport transition is critical for meeting climate goals & retaining industrial competitiveness.
-This project shows — with real data & policy context — where Germany and its peers fall short, and how smarter modal policy & infrastructure can bridge the gap.
+## 🌍 Why This Matters
 
-🚧 Project Status
-✅ Repo & article published
-✅ Data and visuals uploaded
-📓 Notebook analysis 90% complete
-🔧 Final references and policy summary in progress
+Transport is Germany’s largest obstacle to meeting EU and Paris Agreement climate goals.  
+This analysis shows, with real data and advanced visuals, how policy gaps, slow infrastructure rollout, and limited modal shift undermine decarbonization targets.
+
+By combining data analytics, ESG risk evaluation, and policy research, this project demonstrates how measurable insights can:
+- Expose credibility gaps in green claims
+- Guide policy adjustments for real-world impact
+- Help investors and stakeholders track sustainable finance outcomes
+
+It’s a live demonstration of how data-driven research can transform sustainability reporting from slogans to substance.
+
+---
 
 For questions, collaboration or full German summary — feel free to reach out!
