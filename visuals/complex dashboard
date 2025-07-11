@@ -1,0 +1,33 @@
+### 📊 Visuals Overview
+
+This folder contains data-driven visualizations used in the analysis of Germany’s transport decarbonization gap. Each chart translates complex policy and emissions data into clear insights — bridging technical analytics with real-world implications.
+
+---
+
+#### 📈 `co2_trend_line.png`  
+**Germany’s Transport CO₂ Emissions vs. Climate Targets**  
+- Tracks progress from 2010–2024  
+- Highlights the widening gap between actual emissions and climate-aligned targets  
+- Shows long-term underperformance despite climate pledges
+
+#### 📊 `modal_share_bar.png`  
+**Passenger Transport Modal Shift: 2020 vs 2023**  
+- Visualizes modal share changes (car, rail, bus, bike, other)  
+- Reveals limited mode shift despite EU modal shift goals  
+- Enables comparative transport behavior analysis
+
+#### ⚡ `charging_vs_emission.png`  
+**EV Charging Rollout vs Freight Emissions**  
+- Compares growth in EV infrastructure with stagnating freight emissions  
+- Uses scatterplot to demonstrate decoupling between investment and sectoral impact  
+- Supports argument of structural imbalance in decarbonization focus
+
+#### 🕸️ `radar_policy_gap.png`  
+**Policy Radar: Germany vs EU Targets**  
+- Radar chart mapping five key transport policy dimensions  
+- Quantifies how far Germany lags behind EU sustainable transport targets  
+- Provides multi-axis view of regulatory and funding misalignments
+
+---
+
+These visuals demonstrate advanced data storytelling using real indicators — enabling decision-makers, researchers, and ESG analysts to quickly grasp the **policy-performance gap** in German transport transition.
