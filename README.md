@@ -1,0 +1,2 @@
+# green-transport-gap-policy-data-analysis-germany
+A professional ESG policy &amp; data analysis project uncovering why Germany’s transport sector is failing its ESG goals. It features real CO₂ emissions data, infrastructure rollout trends, a structured policy gap matrix, EU country comparisons &amp; expert recommendations. It demonstrates advanced data science, ESG risk evaluation &amp; regulatory insights.
