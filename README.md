@@ -10,7 +10,7 @@ Demonstrates advanced data science, ESG risk evaluation & regulatory analysis.
 ![Status](https://img.shields.io/badge/Status-Work_in_progress-orange)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/green-transport-gap-policy-data-analysis-germany/HEAD?labpath=notebooks%2Fgreen_transport_analysis.ipynb)
 
-![European Green Transport Gap Banner](visuals/banner_transport_gap.png)
+<img src="visuals/banner.png" alt="Germany's Green Transport Gap" style="width:100%; margin-top:20px;">
 
 ---
 
@@ -91,6 +91,7 @@ requirements.txt
 LICENSE
 README.md
 ```` ``` ```
+```
 
 ---
 
@@ -129,6 +130,16 @@ By combining data analytics, ESG risk evaluation, and policy research, this proj
 - Help investors and stakeholders track sustainable finance outcomes
 
 It’s a live demonstration of how data-driven research can transform sustainability reporting from slogans to substance.
+
+---
+
+## 🚧 Project Status
+✅ Repo created & fully structured  
+✅ Article published and linked  
+✅ Data and visuals uploaded  
+✅ Notebook completed & committed  
+✅ Banner image added and displaying  
+📌 Additional policy references & citations can still be expanded
 
 ---
 
