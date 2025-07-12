@@ -134,12 +134,11 @@ It’s a live demonstration of how data-driven research can transform sustainabi
 ---
 
 ## 🚧 Project Status
-✅ Repo created & fully structured  
-✅ Article published and linked  
-✅ Data and visuals uploaded  
-✅ Notebook completed & committed  
-✅ Banner image added and displaying  
-📌 Additional policy references & citations can still be expanded
+## ✅ Project Status
+✅ Repo created & structured  
+✅ Data, visuals, notebook & references completed  
+✅ Article PDF uploaded: `germany_green_transport_gap.pdf`  
+✅ Final README & documentation done
 
 ---
 
