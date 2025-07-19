@@ -9,6 +9,8 @@ Demonstrates advanced data science, ESG risk evaluation & regulatory analysis.
 ![Language](https://img.shields.io/badge/Language-English-blue)
 ![Status](https://img.shields.io/badge/Status-Work_in_progress-orange)
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/green-transport-gap-policy-data-analysis-germany/HEAD?labpath=notebooks%2Fgreen_transport_analysis.ipynb)
+[![DOI](https://zenodo.org/badge/1017856241.svg)](https://doi.org/10.5281/zenodo.16148967)
+
 
 <img src="visuals/banner.png" alt="Germany's Green Transport Gap" style="width:100%; margin-top:20px;">
 
@@ -133,12 +135,25 @@ It’s a live demonstration of how data-driven research can transform sustainabi
 
 ---
 
+## 📚 How to Cite
+
+Aziz, S. (2025). *Saveeza/green-transport-gap-policy-data-analysis-germany: Initial Zenodo Release — Green Transport Gap & Policy Analysis (Germany) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16148968
+
+
+---
+
 ## 🚧 Project Status
 ## ✅ Project Status
 ✅ Repo created & structured  
 ✅ Data, visuals, notebook & references completed  
 ✅ Article PDF uploaded: `germany_green_transport_gap.pdf`  
 ✅ Final README & documentation done
+
+---
+
+## 👤 About the Author
+
+**Saveeza Aziz** is a data analyst with a focus on sustainable finance and applied policy evaluation. Her work combines technical expertise in ESG scoring, EU Taxonomy alignment, and investment modeling to support real-world financial decisions. She has contributed to projects on the real estate market in Luxembourg, the green transport transition in Germany, and the credibility challenge of transition bonds held by Dutch pension funds. Her approach bridges regulatory frameworks and market performance through data-driven insights that are both practical and impact-focused — especially in areas like green finance accountability, disclosure enforcement, and policy-aligned investment strategies.
 
 ---
 
